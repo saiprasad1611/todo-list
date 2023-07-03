@@ -1,8 +1,12 @@
-"Excited to share my latest project, a Todo List application built using HTML, CSS, and JavaScript, with the added functionality of local storage! 📝💻
+# TO-DO-LIST
 
-With this project, I aimed to create a user-friendly and efficient task management tool. By leveraging HTML for the structure, CSS for the styling, and JavaScript for interactivity, I developed a dynamic web application that allows users to add and delete tasks on their to-do list.
+TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
 
-One of the key features of this project is the integration of local storage. By utilizing the browser's local storage API, the application is able to store the user's tasks locally. This means that even if the user closes the browser or refreshes the page, their tasks remain saved, providing a seamless user experience.
+You can see the website live at: https://5codeman.github.io/TO-DO-LIST/
 
-Building this project not only enhanced my skills in front-end development but also taught me the importance of data persistence and improving user experience.
+ABOUT THIS PROJECT-:
 
+  1. In this project i have created a simple to-do app using HTML CSS and JavaScript.
+  2. Built a To-Do List application to make a list of daily works written down in one place.
+  3. Implemented functionalities like add task, remove task, filter tasks and also mark tasks as done.
+ 
